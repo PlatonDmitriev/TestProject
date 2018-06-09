@@ -9,7 +9,7 @@ This repository contains a ready-to mobile friendly web application for document
 
 You can copy the whole solution or its separate part for using in your projects. The following topics describe some technical details and best practices that help you to read and understand the project's code:
 
-- [File Manager](https://google.com) 
+- [File Manager](FimeManager.md) 
 - Part 2
 - Part 3
 
